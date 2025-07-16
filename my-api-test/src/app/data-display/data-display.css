@@ -1,0 +1,21 @@
+.post-item {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+h3 {
+  color: #0056b3;
+  margin-top: 0;
+}
+p {
+  color: #555;
+  line-height: 1.5;
+}
+hr {
+  border: none;
+  border-top: 1px dashed #ccc;
+  margin: 10px 0;
+}
